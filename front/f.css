@@ -7,32 +7,36 @@ body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  background:#AA3C25;
+
 }
 
 .fb__1_2-header {
   display: flex;
   justify-content: flex-end;
-  color:write;
+
 
 }
 
 .fb__2_6-spacer {
   flex-grow: 1;
-  color:write;
-
+ color:pink;
 }
 
 .fb__1_3-main {
   flex-grow: 1;
-  color:write;
-
+  color:pink;
+}
+.fb__2_7-navigation{
+	border:solid;
+	color:pink;
 }
 
 .fb__1_4-footer {
   display: flex;
   justify-content: center;
-	color:write;
+
 
 }
-
+.fb__1_2-header{
+	color:black;
+}
